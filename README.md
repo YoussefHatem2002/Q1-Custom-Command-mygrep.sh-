@@ -98,6 +98,9 @@ The trickiest part was juggling the options and the real inputs.
 
 
 # 🏆 Bonus:
+#  Add support for --help flag to print usage info.
 ![WhatsApp Image](https://github.com/YoussefHatem2002/Q1-Custom-Command-mygrep.sh-/blob/main/WhatsApp%20Image%202025-04-27%20at%2022.32.04_e5734650.jpg?raw=true) 
+# Improve option parsing using getopts(Small Sample).
+![WhatsApp Image](https://github.com/YoussefHatem2002/Q1-Custom-Command-mygrep.sh-/blob/main/WhatsApp%20Image%202025-04-28%20at%2023.50.27_e24d4ea0.jpg?raw=true) 
 
 
